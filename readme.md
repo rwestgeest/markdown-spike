@@ -12,7 +12,7 @@ asdasdasdasda
 public class Person {
 }
 ~~~
-<img src='https://g.gravizo.com/svg?
+![asdasd]('https://g.gravizo.com/svg?
 @startuml;
 actor User;
 participant "First Class" as A;
@@ -36,10 +36,9 @@ deactivate A;
   @startuml
       piet --> henk
   @enduml
-'>
+')
 
 ![fiets](images/fiets.jpg)
 
-<img src='imgages/fiets.jpg'>
 
 ## heading 2

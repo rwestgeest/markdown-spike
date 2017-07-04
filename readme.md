@@ -13,7 +13,7 @@ public class Person {
 }
 ~~~
 
-![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/TLmaK0/gravizo/master/README.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/rwestgeest/markdown-spike/master/readme.md)
 
 <details> 
 <summary></summary>

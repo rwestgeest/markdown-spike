@@ -19,8 +19,8 @@ public class Person {
 <summary></summary>
 custom_mark10
   digraph G {
-    aize ="4,4";
-    main [shape=box];
+    size ="4,4";
+    main [shape=circle];
     main -> parse [weight=8];
     parse -> execute;
     main -> init [style=dotted];

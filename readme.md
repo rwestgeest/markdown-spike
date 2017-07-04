@@ -12,6 +12,7 @@ asdasdasdasda
 public class Person {
 }
 ~~~
+
 ![Alt text](https://g.gravizo.com/svg?
   digraph G {
     aize ="4,4";
@@ -29,6 +30,7 @@ public class Person {
     execute -> compare;
   }
 )
+
 ![fiets](images/fiets.jpg)
 
 

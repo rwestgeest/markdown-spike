@@ -20,7 +20,6 @@ public class Person {
 custom_mark10
   digraph G {
     size ="4,4";
-    main [shape=circle];
     main -> parse [weight=8];
     parse -> execute;
     main -> init [style=dotted];

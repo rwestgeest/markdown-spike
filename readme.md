@@ -13,6 +13,12 @@ public class Person {
 }
 ~~~
 
+<img src='https://g.graphizo.com/svg?
+  @startuml
+      piet --> henk
+  @enduml
+'>
+
 ![fiets](images/fiets.jpg)
 
 ## heading 2

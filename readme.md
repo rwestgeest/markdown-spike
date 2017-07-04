@@ -12,8 +12,8 @@ asdasdasdasda
 public class Person {
 }
 ~~~
-![asdasd]('https://g.gravizo.com/svg?
-@startuml;
+![asdasd](https://g.gravizo.com/svg?
+    @startuml;
 actor User;
 participant "First Class" as A;
 participant "Second Class" as B;
@@ -30,13 +30,8 @@ B --> A: Request Created;
 deactivate B;
 A --> User: Done;
 deactivate A;
-@enduml
-'>
-<img src='https://g.graphizo.com/svg?
-  @startuml
-      piet --> henk
-  @enduml
-')
+@enduml)
+
 
 ![fiets](images/fiets.jpg)
 

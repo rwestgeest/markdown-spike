@@ -10,6 +10,7 @@ asdasd
 custom_mark10
 @startuml
 piet --> gijs
+gijs --> henk
 @enduml
 custom_mark10
 </details>

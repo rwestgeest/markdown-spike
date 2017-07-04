@@ -40,4 +40,6 @@ deactivate A;
 
 ![fiets](images/fiets.jpg)
 
+<img src='imgages/fiets.jpg'>
+
 ## heading 2

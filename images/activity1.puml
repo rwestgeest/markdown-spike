@@ -1,0 +1,8 @@
+@startuml
+actor ShipOperator
+actor Wpcs
+' The only difference between actor and participant is the drawing
+participant BezoekSchip
+ShipOperator -> BezoekSchip : createVisit
+BezoekSchip -> Wpcs : ProvisionVisit
+@enduml
